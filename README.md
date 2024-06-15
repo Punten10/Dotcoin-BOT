@@ -1,5 +1,5 @@
 # Dotcoin-BOT
-DOTCOIN AUTO TAP TAP
+DOTCOIN AUTO TAP TAP AND AUTO TASK COMPLETE
 
 ## Register
 Daftar Disini https://t.me/dotcoin_bot?start=r_1993663749
