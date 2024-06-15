@@ -1,6 +1,9 @@
 # Dotcoin-BOT
 DOTCOIN AUTO TAP TAP
 
+## Register
+Daftar Disini https://t.me/dotcoin_bot?start=r_1993663749
+
 ## instalasi
 ```shell
 >> git clone https://github.com/Punten10/Dotcoin-BOT.git
